@@ -1,7 +1,6 @@
 import sys
 
 input = open("data.txt").read()
-#input = "^v^v^v^v^v"
 
 positions = [[0,0],[0,0]]
 x = 0
